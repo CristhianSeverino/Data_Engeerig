@@ -5,5 +5,7 @@ Repositorio de Herramientas para data science and data engeenering
 
 ten en cuenta:
 * **Adaptar** Acorde a las necesidades de tu esquema de datos o proyecto.
-* **Agregar celdas** para que te evites reprocesos puedes rcear funciones que permitan convrtir las tablas en una base de datos SQl de tu eleccion o a una **Vector DataBase** Para **LLM's**.
-* **Recomiendo** Para **EDA** usar Polars.
+* **Agregar celdas** para que te evites reprocesos. Puedes cear funciones que permitan convertir las tablas en una base de datos SQl. De tu eleccion o a una **Vector DataBase** Para **LLM's**.
+* **Recomiendo** Para **EDA** usar Pandas o Polars. Busca en mi repositoio: *Polars_Experimentation Public* podrias usar este repositorio como base para Tu EDA o Feature Engineering. del data set creado con este repositorio 🤗☕😎
+
+**Diviertete Creando**
